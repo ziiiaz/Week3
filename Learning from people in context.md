@@ -18,18 +18,33 @@
 <details>
 <summary>"SECTION TWO"</summary>
   
+  # 🏡 Target Users 
   
+  > :one: **User's Characteristics**(demographics|preference|expertise|mainstram or not)
+  
+  > :two: **Context of Use**
+  
+  > :three: **Processes for Completion of Activity**
    </details>
 
 
 <details>
 <summary>"SECTION THREE"</summary>
   
+  # 🔎 Research Method
+  
+  > :one: **Hows**
+ 
+  > :two: **Whats**
   
    </details>
    
    <details>
 <summary>"SECTION FOUR"</summary>
+  
+  
+  
+  
   
   
    </details><details>
