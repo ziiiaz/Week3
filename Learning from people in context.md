@@ -41,14 +41,21 @@
    
    <details>
 <summary>"SECTION FOUR"</summary>
+  # Collected Data
   
+  > :speech_balloon: **Transcript**
   
+  > :video_camera: **Recorded Sesssion**
   
+  > :clipboard: **Fieldnotes**
   
-  
+  > :high_brightness: **Highlights**
   
    </details><details>
 <summary>"SECTION FIVE"</summary>
+  
+  # :mortar_board: Reflection 
+  
   
   
    </details>
