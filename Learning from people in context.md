@@ -47,6 +47,8 @@
   
   > :speech_balloon: **Transcript**
   
+  [HERE](https://drive.google.com/file/d/1iC77mGE4caE9cNK-_WKao9GWXka0QR9Q/view?usp=sharing)
+  
   > :video_camera: **Recorded Sesssion**
   
   > :clipboard: **Fieldnotes**
