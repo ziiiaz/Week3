@@ -32,11 +32,19 @@ We categorize the limitations into two groups: sociocultural and design-based ma
   
   # 🏡 Target Users 
   
-  > :one: **User's Characteristics**(demographics|preference|expertise|mainstram or not)
+ > :one: **User's Characteristics**(demographics|preference|expertise|mainstram or not)
+  
+  The user that we talked to was a young lady in her 30s, finishing a master’s program in computer science and very social. She moved to the U.S. more than three years ago from the Middle East. She respects older adults and believes their experiences are always valuable. She likes to have a minimalistic life without being surrounded by things that do not bring meaning into her life. She uses her electronic devices on a timely schedule. For example, she does not browse social media for over 10 minutes or spend more than an hour on Netflix in a week. Instead, she reads articles and mostly focuses on her education. For the past few months, she has spent most of her day in the library.
   
   > :two: **Context of Use**
   
+  While she knew about the DHS and TSA website, she was not aware of filing a complaint. She believed that even if we can file one against Google, the DHS and TSA are placed outside and beyond this: untouchables. 
+  
   > :three: **Processes for Completion of Activity**
+  
+She quickly found the webpage through carefully reading the content and looking at tabs. She then touched the How Do I tab, read the content under For Travelers, and tabbed on it. On that page, she immediately found File a Travel Complaint (DHS TRIP), tabbed on it, which directs her to the next page. She opened Start Here, then touched File your complaint online. When the page loaded, she looked at it for a few seconds (which we interpret as a sign of hesitancy), then she said she wouldn’t proceed. She does not believe she has the right to complain, TSA officers did (do) wrong as they are well trained, and the DHS will never pay attention to these documents. 
+
+  
    </details>
 
 
