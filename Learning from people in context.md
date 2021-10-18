@@ -60,7 +60,7 @@ Being immersed in the users’ lives and seeing the subject matter in context is
  
   > :two: **Whats**
   
-It was necessary to have the interview recorded. The user was unsure why she should be recorded while I explained to her before we initiated the session. I assure her to blur her face and remove all identifiable information. After all, she was not comfortable describing the incident with all details. I decided not to take notes while talking, as I believe it could further the existing distance and differences between her and me as the interviewer. Therefore, I avoided taking notes by that time and tried to keep it as a natural, spontaneous form of communication. 
+It was necessary to have the interview recorded. The user was unsure why she should be recorded while I explained to her before we initiated the session. I assure her to blur her face and remove all identifiable information. After all, she was not comfortable describing the incident with all details. I decided not to take notes while talking, as I believe it could further the existing distance and differences between her and me as the interviewer. Therefore, I avoided taking notes during the interview and tried to keep it as a natural, spontaneous form of communication. Moreover, the interview was conducted where the user feels comfortable and usually relaxes after working. The intention behind this was to reduce the formality of the interview. 
 
   
    </details>
@@ -83,6 +83,44 @@ It was necessary to have the interview recorded. The user was unsure why she sho
   
   # :mortar_board: Reflection 
   
+  When researchers formulate questions or hypotheses for their study, they are already looking at the examination subjects from a set of theories and methodological frameworks. Even if they do not wholly proceed with those theories and frameworks, they are still positioned and have a partial vision of the subject of their study. Researchers must know where they are coming from and how they are analyzing data. In other words, for researchers, positionality is a self-reflection approach to know how their position toward a phenomenon would affect the ways of conducting the research, the conclusion, and the results. While it is ideal for researchers to be detached from their theories and frameworks and at the same time to see the world from their subject of studies (for example, users of the DHS website in this case), it is probably difficult for them to be separated from the sociocultural and political views that sometimes are ascribed during a lifetime. In the case of the TSA screening machine, the research team might have ignored the fact that not everyone in the U.S. and the world has thin unbraided hair or some people cover their head. This failure could be an example of how researchers’ positionality could affect the whole processes of research, from questions and theoretical stage to the conclusions (product) and the result (racially profiled users). Being reflective of researchers’ own positions would at least generate awareness of some potential pitfalls in the whole process of conducting research. 
+Inspired by a line of scholars in anthropology, I believe Dell Hymes's concept of “voice” is relevant in conducting fieldwork for UX designers and researchers. In contrast to Chomsky’s linguistic competency (1965) considers it as an ability that is homogeneously distributed among speakers, Hymes (1937), based on his ethnographic research, argued that the communicative competency is not essentially uniform and shared by all individuals in a language community. The point which I want to emphasize here is Hymes's distinction between two reasons for not saying something. First, it is possible that individuals do not say something due to the time and space in which they are, and second, they do not say it because there is no way to express it. 
+The first distinction between homogeneous linguistic competency and heterogeneous can help researchers know their subjects better before immersing in the field. If researchers think of a homogeneous target users’ community, they might lose the difference between the individuals. While it is not feasible to consider all the differences, being aware of them could help researchers to design their study differently. The second point from Hymsean's notion of voice is that no matter how much researchers detach themselves from their theories and methods, they might not get a genuine response from their users due to the two reasons of not saying something mentioned above. In our case, when the user was describing how she goes to the airport step by step, at (10:26), she skipped the TSA procedure “I am I just like get a cup of coffee, spend some time like buying souvenirs or something for friends and that’s it.” When the interviewer asked about the TSA screening process, she provided more details, but she noted that “screening is always unpleasant experience” (11:28) 
+The last point is about how the user thought the way TSA dealt with her situation could be justified in favor of officers' formal training and the security for the whole. She had no problem: 
+>Me  26:43  
+>So you think that is, it’s you would like sacrifice your feelings, your experience. 
+
+>Interviewee  26:48  
+>Exactly, exactly, 
+
+>Me  26:50  
+>in favor of having the security, 
+
+>Interviewee  26:53  
+>yes. 
+
+>Me  26:54  
+>So you think that they are doing well even if they are hurting you. This is
+
+>Interviewee  26:58  
+>just one. I mean this is his like, I think this is the, the, I don’t know the policy the rule I don’t know what should I call it that, so they, they, they learned, or they yeah they learned and there are trainings I don’t know when they got hired, they have something they have like a procedure Yeah, something to follow. Yeah, so it’s part of the, of their like job. 
+
+It is about the security and the fact that the officer does not understand her cultural background. Therefore, it would be futile to talk to the officer at that moment:
+
+>Interviewee  15:59  
+>I didn’t explain because it was about religion
+
+>I didn’t. 
+
+>Me  16:03  
+>but would you told me, surely that. Oh, yes. All right, yeah. Yeah, 
+
+>Interviewee  16:07  
+>especially with that there was a lineup and he was like really insisting and very like asking for it, repeated many times, so I couldn’t like argue with.
+
+We can see how this failure in understanding constructs a hierarchy of knowledge and a wide gap between the user and the officer, which is reflected in the last few minutes of the interview when she opened the page to file a complaint but said, “It’s for the same reason that I won't file a complaint” (26:05). Why is this important for us? An answer could be the experience the user had in the airport, and since the DHS website is related to TSA and its officers, it is worthless to file a complaint, as she says “I mean we would file a complaint against at&t for example, Google Ralphs for any reason the airlines but not the TSA”(20:15). Why does she believes DHS and TSA do not care about complaints? Because she cannot see the result of the complaints on the website. For example, she says,“the experience would maybe make me think about filing your complaint, knowing that they gonna like, review the complaint, take it into consideration”(30:14). In the end, she tells us what would change her mind about filing a complaint that if the website was more racially and religiously inclusive, she could feel better about filing a complaint which is what the design team failed to notice:
+  >I just, I’m just, I always ask myself, actually, if the, the TSA officers are open to learn about other cultures and backgrounds of travelers to the US, especially that’s, I mean here people are like, all they have different backgrounds, different cultures, even Americans, not just like residents or visitors to the country. Maybe they is good to have. I don’t know, and trainings or like awareness in the airports, about, like, the different cultures and backgrounds, just like what happens in the universities now if you go to any university website, you and you look at the banner, and the front page you see a picture of students from different backgrounds …some of them wearing a hijab covering their head, others are not with a cover different skin color, different like facial everything. It shows that the diversity in this country. Yeah, and they are accepting people the way they are in the government setting (31:14).
+
   
   
    </details>
